@@ -20,6 +20,11 @@
 .logo{  width: 130px 50px;
         cursor: pointer;
 }
+.images{ color: #fff;
+}
+.nowrap {
+    white-space: nowrap ;
+}
 .navbar ul li{  list-style: none;
                 display: inline-block;
                 margin: 0 40px;
