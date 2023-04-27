@@ -21,6 +21,10 @@
         cursor: pointer;
 }
 .images{ color: #fff;
+         display: flex;
+         justify-content: center;
+         align-items: flex-end;
+         flex-wrap: wrap;
 }
 .nowrap {
     white-space: nowrap ;
