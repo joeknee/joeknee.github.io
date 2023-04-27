@@ -26,6 +26,10 @@
          align-items: flex-end;
          flex-wrap: wrap;
 }
+
+.images img {
+    margin: 10px;
+}
 .nowrap {
     white-space: nowrap ;
 }
